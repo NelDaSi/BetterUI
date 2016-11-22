@@ -1,0 +1,26 @@
+ZO_CreateStringId("SI_BUI_INV_ITEM_ALL","|cFF6600Alle|r")
+ZO_CreateStringId("SI_BUI_INV_ITEM_MATERIALS","Vorräte")
+ZO_CreateStringId("SI_BUI_INV_ITEM_QUICKSLOT","|cFF6600Schnellzugriff|r")
+ZO_CreateStringId("SI_BUI_INV_ITEM_WEAPONS","Waffen")
+ZO_CreateStringId("SI_BUI_INV_ITEM_APPAREL","Rüstung")
+ZO_CreateStringId("SI_BUI_INV_ITEM_CONSUMABLE","Verbrauchsgüter")
+ZO_CreateStringId("SI_BUI_INV_ITEM_MISC","Plunder")
+ZO_CreateStringId("SI_BUI_INV_ITEM_JUNK","Nutzloses")
+
+ZO_CreateStringId("SI_BUI_INV_EQUIPSLOT_TITLE","Gegenstand anlegen...")
+ZO_CreateStringId("SI_BUI_INV_EQUIPSLOT_PROMPT","Welchem <<1>> Waffenset diese Waffe hinzufügen?")
+ZO_CreateStringId("SI_BUI_INV_EQUIPSLOT_MAIN","Set 1")
+ZO_CreateStringId("SI_BUI_INV_EQUIPSLOT_OFF","Set 2")
+
+ZO_CreateStringId("SI_BUI_INV_EQUIP_PROMPT_MAIN","Haupthand")
+ZO_CreateStringId("SI_BUI_INV_EQUIP_PROMPT_BACKUP","Nebenhand")
+ZO_CreateStringId("SI_BUI_INV_EQUIP_PROMPT_CANCEL","Abbrechen")
+
+ZO_CreateStringId("SI_BUI_INV_SWITCH_EQUIPSLOT","Waffenset wechseln")
+ZO_CreateStringId("SI_BUI_INV_ACTION_QUICKSLOT_ASSIGN","Schnellzugriff zuweisen")
+
+ZO_CreateStringId("SI_BUI_INV_EQUIPSLOT_MAIN","Haupt")
+ZO_CreateStringId("SI_BUI_INV_EQUIPSLOT_BACKUP","Neben")
+ZO_CreateStringId("SI_BUI_BANKING_WITHDRAW","Abheben")
+ZO_CreateStringId("SI_BUI_BANKING_DEPOSIT","Einlagern")
+ZO_CreateStringId("SI_BUI_BANKING_BUYSPACE","Bankplatz erweitern (<<1>>)")
